@@ -1,0 +1,27 @@
+.form{
+    background-color:#c0c0c0;
+    height:140px;
+}
+.form2{
+    background-color:#c0c0c0;
+    padding: 10px;
+}
+.aaa{
+    float:left;
+    padding: 0 10px;
+}
+.aab{
+    width: 200px;
+}
+.main{
+    background-color:#c0c0c0;
+}
+.title{
+    background-color: darkturquoise;
+    font-size: 25px;
+    font-weight: bold;
+}
+.kakikomi{
+    background-color:#909090;
+    font-size: large;
+}
